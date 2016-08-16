@@ -21,7 +21,7 @@
         ],
         "exclude": [
           "**/obj/**",
-          "shuaiyi/shuaiyiDocsetTestApril1801/**"
+          "shuaiyi/shuaiyiDocsetTestApril1801/**",,,,
         ],
         "src": null,
         "dest": null
